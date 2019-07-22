@@ -9,3 +9,6 @@ Adobe XD, 5 Minutes, and you!
 
 ### Calculation For Circle Whole Number
 2 Multiplied By Pie Multiplied By Radius
+
+### Split For Progress Bar
+Circle New Dash Value * .percent (.40, .50, .60)
