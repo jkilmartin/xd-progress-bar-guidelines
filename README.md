@@ -7,3 +7,5 @@ These instructions will give you the tools to create your own circle charts.
 ### What You Need
 Adobe XD, 5 Minutes, and you!
 
+### Calculation For Circle Whole Number
+2 Multiplied By Pie Multiplied By Radius
